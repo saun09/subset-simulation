@@ -12,10 +12,11 @@ This simulator takes a set of integers and a target sum. It finds and displays a
 - HTML, CSS, JavaScript
 
 ## Folder Structure
+
+```text
 subset/
 ├── index.html         
 ├── style.css         
 ├── script.js          
 ├── README.md         
-
 
