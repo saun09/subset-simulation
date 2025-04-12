@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sum of Subsets Simulation</title>
+  <link rel="stylesheet" href="style.css"/>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+  <h1>Sum of Subsets Simulation</h1>
+  <div class="input-container">
+    <input type="text" id="elements" placeholder="Enter numbers e.g. 1,2,3"/>
+    <input type="number" id="target" placeholder="Target Sum"/>
+    <button onclick="startSimulation()">Start Simulation</button>
+    <button onclick="clearGraph()">Clear</button>
+  </div>
+
+  <div id="main-container">
+
+    <div id="graph-container">
+        <svg id="graph"></svg>
+      </div>
+       <div id="log" style="font-family: monospace; white-space: pre-line; margin-top: 20px;"></div>
+  </div>
+  <div id="subset-output" style="margin-top: 20px; font-family: monospace;"></div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
