@@ -20,3 +20,6 @@ subset/
 ├── script.js          
 ├── README.md         
 
+
+##Deployed Here
+ https://saun09.github.io/subset-simulation/
