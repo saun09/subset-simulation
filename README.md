@@ -4,9 +4,9 @@
 This simulator takes a set of integers and a target sum. It finds and displays all subsets whose sum equals the target, using backtracking.
 
 ## Group Members
-Saundarya Subramaniam 16010123305 E1
-Shalini Majumdar 16010123307 E1
-Shantanu Nadar 16010123308 E1
+1. Saundarya Subramaniam 16010123305 E1
+2. Shalini Majumdar 16010123307 E1
+3. Shantanu Nadar 16010123308 E1
 
 
 ## How to Use
